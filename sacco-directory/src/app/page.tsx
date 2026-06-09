@@ -13,7 +13,7 @@ export default function Home() {
         <div className="container">
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem' }}>
             <h2 style={{ fontSize: '1.5rem', fontWeight: 700 }}>Featured Institutions</h2>
-            <a href="/directory" className="text-primary" style={{ fontWeight: 600 }}>View All Directory →</a>
+            <a href="/directory" className="text-primary" style={{ fontWeight: 600 }}>View All Profiles →</a>
           </div>
           
           <div style={{ 
@@ -30,7 +30,7 @@ export default function Home() {
 
       <footer style={{ background: 'var(--surface)', padding: '4rem 0', borderTop: '1px solid var(--border)' }}>
         <div className="container" style={{ textAlign: 'center', color: 'var(--muted)' }}>
-          <p>© 2026 MSME - Microfinance Directory Kenya. Empowering "Last Mile" financial inclusion.</p>
+          <p>© 2026 MSME - Microfinance and SACCOs Profiles Kenya. Empowering "Last Mile" financial inclusion.</p>
         </div>
       </footer>
     </main>

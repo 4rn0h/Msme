@@ -3,7 +3,7 @@ import "./globals.css";
 import AIAssistant from "@/components/ai/AIAssistant";
 
 export const metadata: Metadata = {
-  title: "MSME - Microfinance Directory - Trusted SACCO & MFI Directory Kenya",
+  title: "MSME - Microfinance and SACCOs Profiles - Trusted SACCO & MFI Profiles Kenya",
   description: "Find verified Microfinance Institutions and SACCOs in Kenya with transparent interest rates and CBK/SASRA compliance tracking.",
 };
 
